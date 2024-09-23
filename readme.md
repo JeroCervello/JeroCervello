@@ -3,3 +3,7 @@
 ## Acerca de mi
 
 Soy un karateca profe de inglés que se está iniciando en el mundo de la programación.
+
+## Contacto
+
+Mi contacto es jero.cervello@gmail.com o +5492216311225
