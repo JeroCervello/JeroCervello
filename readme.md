@@ -8,3 +8,7 @@ Soy un karateca profe de inglés que se está iniciando en el mundo de la progra
 ## Contacto
 
 Mi contacto es jero.cervello@gmail.com o +5492216311225
+
+## Lenguages
+
+Spanish, English C1
