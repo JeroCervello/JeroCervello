@@ -9,6 +9,9 @@ Soy un karateca profe de inglés que se está iniciando en el mundo de la progra
 
 Mi contacto es jero.cervello@gmail.com o +5492216311225
 
+## Lenguages
+
+Spanish, English C1
 ## Skills
 - Problem-Solving: As a developer, I thrive on solving complex problems. I’m constantly exploring new technologies and...
 
