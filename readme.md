@@ -1,24 +1,30 @@
-# Hola!
-## Bienvenido a mi perfil de Github!
+# Hi!
+## Welcome to my GitHub Profile
 
-## Acerca de mi
+## About Me
 
-Soy Profesor de inglés, cinturón negro de karate, y entusiasta de videojuegos que se está iniciando en el mundo de la programación.
-
-## Contacto
-
-Mi contacto es jero.cervello@gmail.com o +5492216311225
-
+My name is Jerónimo, I'm currently studying software engineering at university, and also I'm an english teacher and black belt in goju ryu karate style.
 
 ## Lenguages
 
 Spanish, English C1
+
 ## Skills
-- Problem-Solving: As a developer, I thrive on solving complex problems. I’m constantly exploring new technologies and...
+- Problem-Solving: As a developer, I thrive on solving complex problems. I’m constantly exploring new technologies that suits the best with every situation.
+- Group leading
+- Assertive and empathetic person
 
 
 ## Technologies
 - Back-End: Proficient in Java, I bring to the table a strong understanding of server-side development...
 - Front-End: My expertise in Angular allows me to create interactive and user-friendly interfaces...
+
 ## Hobbies
-- Dancing: ...
+- Karate
+- Videogames
+- Trekking
+- Reading
+
+- ## Contact
+
+jero.cervello@gmail.com
